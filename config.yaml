@@ -1,0 +1,24 @@
+username: esondrstd@aol.com
+password: I39nM@!3N#F%b6cwTxxH
+
+positions:
+- Project Manager
+- Scrum Master
+- # A third position you want to search for
+
+locations:
+- Houston, Texas
+- Remote
+
+# --------- Optional Parameters -------
+uploads:
+   Resume: resume_text.docx
+   #Cover Letter: # PATH TO cover letter
+#  Photo: # PATH TO photo
+
+
+output_filename:
+- C:\Users\Erik\Desktop\py_projects\Job Scrapers\output.csv
+
+# blacklist:
+# - # Company names you want to ignore
